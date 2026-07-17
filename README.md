@@ -1,4 +1,4 @@
-# Hi, I'm [Abhishek kumar] 👋
+# Hi, I'm Abhishek kumar 👋
 
 Aspiring Cloud Security Engineer | Building secure cloud infrastructure
 
