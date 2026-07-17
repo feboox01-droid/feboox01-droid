@@ -10,6 +10,8 @@ Aspiring Cloud Security Engineer | Building secure cloud infrastructure
 ## 📊 LeetCode Progress
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Abhishek07i)
 
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/abhishekkumar09.in.png)
+
 ## 🛠️ Skills
 AWS | Terraform | Python | Linux | Networking | IAM | GitHub Actions
 
