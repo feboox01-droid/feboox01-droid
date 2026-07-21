@@ -3,7 +3,7 @@
 Aspiring Cloud Security Engineer | Building secure cloud infrastructure
 
 ## 🔧 What I'm Working On
-- Learning AWS Cloud Security, Networking, and DevSecOps practices
+- Learning AWS Cloud Security, Networking, and DevSecOps practices , bug bounty 
 - Building hands-on projects around IAM, Infrastructure as Code, and cloud automation
 - Solving DSA problems daily (Striver's A2Z Sheet)
 
