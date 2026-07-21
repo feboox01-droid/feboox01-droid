@@ -19,11 +19,10 @@ Aspiring Cloud Security Engineer | Building secure cloud infrastructure
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux" />
   <img src="https://cdn.simpleicons.org/cisco" width="45" alt="Networking" />
-  <img src="https://cdn.simpleicons.org/amazonaws" width="45" alt="AWS IAM" />
   <img src="https://cdn.simpleicons.org/githubactions" width="45" alt="GitHub Actions" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" alt="SQL" />
-  <img src="https://cdn.simpleicons.org/tableau" width="45" alt="Tableau" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel" width="45" alt="Excel" />
+  <img src="https://img.icons8.com/color/48/tableau-software.png" width="45" alt="Tableau" />
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" alt="Excel" />
 </p>
 
 ## 📂 Featured Projects
