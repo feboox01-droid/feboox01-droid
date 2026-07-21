@@ -11,18 +11,19 @@ Aspiring Cloud Security Engineer | Building secure cloud infrastructure
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Abhishek07i)
 
 
-## 🛠️ Skills
+## 🛠️ TEC SKILLS
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
-  <img src="https://cdn.simpleicons.org/cisco" width="45" />
-  <img src="https://cdn.simpleicons.org/githubactions" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
-  <img src="https://cdn.simpleicons.org/microsoftexcel" width="45" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />
-  <img src="https://cdn.simpleicons.org/tableau" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" alt="AWS" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" alt="Terraform" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" alt="Linux" />
+  <img src="https://cdn.simpleicons.org/cisco" width="45" alt="Networking" />
+  <img src="https://cdn.simpleicons.org/amazonaws" width="45" alt="AWS IAM" />
+  <img src="https://cdn.simpleicons.org/githubactions" width="45" alt="GitHub Actions" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" alt="SQL" />
+  <img src="https://cdn.simpleicons.org/tableau" width="45" alt="Tableau" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel" width="45" alt="Excel" />
 </p>
 
 ## 📂 Featured Projects
