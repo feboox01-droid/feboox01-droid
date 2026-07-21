@@ -20,6 +20,9 @@ Aspiring Cloud Security Engineer | Building secure cloud infrastructure
   <img src="https://cdn.simpleicons.org/cisco" width="45" />
   <img src="https://cdn.simpleicons.org/githubactions" width="45" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" />
+  <img src="https://cdn.simpleicons.org/tableau" width="45" />
 </p>
 
 ## 📂 Featured Projects
