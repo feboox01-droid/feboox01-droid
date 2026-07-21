@@ -12,7 +12,15 @@ Aspiring Cloud Security Engineer | Building secure cloud infrastructure
 
 
 ## 🛠️ Skills
-AWS | Terraform | Python | Linux | Networking | IAM | GitHub Actions
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" />
+  <img src="https://cdn.simpleicons.org/cisco" width="45" />
+  <img src="https://cdn.simpleicons.org/githubactions" width="45" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" />
+</p>
 
 ## 📂 Featured Projects
 - [IaC Security Pipeline](https://github.com/feboox01-droid/Infrastructure-as-code-security-pipeline-) — Automated security scanning using Terraform + Checkov + GitHub Actions
