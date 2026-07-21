@@ -11,7 +11,7 @@ Aspiring Cloud Security Engineer | Building secure cloud infrastructure
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Abhishek07i)
 
 
-## 🛠️ TEC SKILLS
+## 🛠️ TECH SKILLS
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" alt="AWS" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="45" alt="Terraform" />
