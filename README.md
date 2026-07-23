@@ -25,8 +25,6 @@ Aspiring Cloud Security Engineer | Building secure cloud infrastructure
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" width="45" alt="Excel" />
 </p>
 
-## 📂 Featured Projects
-- [IaC Security Pipeline](https://github.com/feboox01-droid/Infrastructure-as-code-security-pipeline-) — Automated security scanning using Terraform + Checkov + GitHub Actions
 
 ## 📫 Connect
 LinkedIn: [https://www.linkedin.com/in/abhishek-kumar-52799a3a5/]
