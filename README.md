@@ -1,11 +1,12 @@
 # Hi, I'm Abhishek kumar 👋
 
-Aspiring Cloud Security Engineer | Building secure cloud infrastructure
+Aspiring Cloud Security Engineer | Building secure cloud infrastructure | Bug Bounty 
 
 ## 🔧 What I'm Working On
 - Learning AWS Cloud Security, Networking, and DevSecOps practices , bug bounty 
 - Building hands-on projects around IAM, Infrastructure as Code, and cloud automation
 - Solving DSA problems daily (Striver's A2Z Sheet)
+- Ethical Hacker 
 
 ## 📊 LeetCode Progress
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Abhishek07i)
@@ -28,3 +29,4 @@ Aspiring Cloud Security Engineer | Building secure cloud infrastructure
 
 ## 📫 Connect
 LinkedIn: [https://www.linkedin.com/in/abhishek-kumar-52799a3a5/]
+Gmail : [https://mail.google.com/mail/u/1/#inbox]
